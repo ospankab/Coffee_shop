@@ -1,0 +1,59 @@
+body {
+	background-color: #EBDC67;
+	margin: 0;
+	padding: 0;
+}
+
+.menu {
+	display: flex;
+	justify-content: space-around;
+	width: 1000px;
+	margin-left: 250px;
+	margin-top: 10px;
+	user-select: none;
+}
+
+.logo {
+	width: 150px;
+	height: 100px;
+	cursor: pointer;
+}
+
+.content {
+	font-size: 25px;
+	color: #A6292A;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	margin-top: 40px;
+	cursor: pointer;
+}
+
+.header {
+	height: 500px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	padding-top: 0px;
+}
+
+.coffee {
+	width: 450px;
+	height: 550px;
+	margin-top: 0px;
+	float: left;
+	user-select: none;
+}
+
+.welcome {
+	height: 250px;
+	width: 700px;
+	margin-left: 690px;
+	padding-top: 80px;
+	font-size: 80px;
+	font-weight: 900;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.lorem {
+	margin-left: 690px;
+	font-size: 30px;
+}
